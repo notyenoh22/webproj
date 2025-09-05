@@ -23,6 +23,7 @@
         
         <img src="{{ asset(path: 'images/hny.jpg') }}" alt="Member 2">
         <img src="{{ asset(path: 'images/jss.jpg') }}" alt="Member 2">
+        <img src="{{ asset(path: 'images/myr.jpg') }}" alt="Member 3">
         <header class="w-full lg:max-w-4xl max-w-[335px] text-sm mb-6 not-has-[nav]:hidden">
             @if (Route::has('login'))
                 <nav class="flex items-center justify-end gap-4">
