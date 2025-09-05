@@ -82,8 +82,8 @@
             </a>
         </div>
         <div class="member">
-            <a href="https://drive.google.com/member3_resume_link" target="_blank">
-                <img src="https://via.placeholder.com/150" alt="Member 3">
+            <a href="https://malara337.github.io/MY-Profile/" target="_blank">
+                <img src="{{ asset(path: 'images/myr.jpg') }}" alt="Member 3">
             </a>
         </div>
         <!-- Add more members here -->
