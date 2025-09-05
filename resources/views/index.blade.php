@@ -73,12 +73,12 @@
     <div class="container">
         <div class="member">
             <a href="https://notyenoh22.github.io/portfolio-honeymae/" target="_blank">
-                <img src="{{ asset('images/hny.jpg') }}" alt="Member 1">
+                <img src="{{ asset(path: 'images/hny.jpg') }}" alt="Member 1">
             </a>
         </div>
         <div class="member">
-            <a href="https://drive.google.com/member2_resume_link" target="_blank">
-                <img src="https://via.placeholder.com/150" alt="Member 2">
+            <a href="https://alloyjessa-bot.github.io/profile/" target="_blank">
+                <img src="{{ asset(path: 'images/jss.jpg') }}" alt="Member 2">
             </a>
         </div>
         <div class="member">
